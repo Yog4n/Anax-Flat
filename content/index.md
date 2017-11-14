@@ -4,6 +4,8 @@ titleBreadcrumb: Home
 Johan Lundqvists hemsida med Anax Flat
 ===============================
 
+<img class="me" src="img/me.jpg" alt="Johan i Gokart">
+
 Tjena, Mitt namn är Johan Lundqvist. Uppväxt i Borlänge. Som liten spelade jag fotboll och sedan badminton. Sen fastnade jag för datorspel och slutade med sporter.
 
 Min pappa har kört rally och folkrace i sina yngre dagar, och jag verkar ha fått ärvt det intresset. Som liten satt jag och rattade bilspel på datorn och älskade att åka hyrkart när man väl nådde den åldern.
@@ -12,4 +14,33 @@ Min pappa har kört rally och folkrace i sina yngre dagar, och jag verkar ha få
 
 I November 2016 så blev jag anställd hos Elgiganten Borlänge i KNOWHOW-centret, trivdes väldigt bra där och lyckades tjäna ihop lite pengar för karten och annat skoj.
 
-Intresset för programmering blev stort i grundskolan efter att jag fått programmera enklare legorobotar. Redan då hade jag bestämt mig för att bli någonslags programmerare. Sedan i gymnasiet efter min första webbutvecklingslektion så ändrade jag riktningen från att programmera robotar till att hålla på med webbprogrammering.
+Intresset för programmering blev stort i grundskolan efter att jag fått programmera enklare legorobotar. Redan då hade jag bestämt mig för att bli någonslags programmerare. Sedan i gymnasiet efter min första webbutvecklingslektion så ändrade jag riktningen från att programmera robotar till att hålla på med webbprogrammering
+
+<div class="byline">
+
+    <img src="img/me-small2.jpg" alt="Johan i Gokart">
+
+    Johan Lundqvist studerar webbprogrammering 3 år vid Campus Gräsvik, Blekinge Tekniska Högskola. Utöver skolan så spelar jag datorspel eller åker gokart.
+
+</div>
+
+<style>
+    .byline {
+        padding: 15px;
+        border: 1px solid black;
+        width: 500px;
+        height: 80px;
+        margin: auto;
+        background-color: #f9f7f7;
+    }
+    .byline img {
+        float: left;
+        margin-right: 20px;
+        height: 80px;
+    }
+    .me {
+        width: 40%;
+        float: right;
+        margin: 10px;
+    }
+</style>

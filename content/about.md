@@ -1,10 +1,34 @@
 Om denna sida
 ==============================================
 
-The primary focus of this site is to:
+<img src="img/webdesign.jpg" alt="Webdesign">
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+Denna sida använda i [dbwebb course design](http://dbwebb.se/design).
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Repo till denna sida finns på [Aanax-Flat](https://github.com/Yog4n/Anax-Flat).
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+This site is produced by Johan Lundqvist
+
+<div class="byline">
+
+    <img src="img/me-small2.jpg" alt="Johan i Gokart">
+
+    Johan Lundqvist studerar webbprogrammering 3 år vid Campus Gräsvik, Blekinge Tekniska Högskola. Utöver skolan så spelar jag datorspel eller åker gokart.
+
+</div>
+
+<style>
+    .byline {
+        padding: 15px;
+        border: 1px solid black;
+        width: 500px;
+        height: 80px;
+        margin: auto;
+        background-color: #f9f7f7;
+    }
+    .byline img {
+        float: left;
+        margin-right: 20px;
+        height: 80px;
+    }
+</style>
