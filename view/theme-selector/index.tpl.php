@@ -28,7 +28,7 @@
                 </option>
             <?php endforeach; ?>
         </select>
-        
+
         <output>
             <?php if ($message) : ?>
                 <p><?= $message ?></p>
