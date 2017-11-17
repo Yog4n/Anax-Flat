@@ -7,6 +7,8 @@ Denna sida använda i [dbwebb course design](http://dbwebb.se/design).
 
 Repo till denna sida finns på [Aanax-Flat](https://github.com/Yog4n/Anax-Flat).
 
+Repo för temat finns på [Anax-Flat-Theme](https://github.com/Yog4n/anax-flat-theme).
+
 This site is produced by Johan Lundqvist
 
 <div class="byline">
@@ -16,19 +18,3 @@ This site is produced by Johan Lundqvist
     Johan Lundqvist studerar webbprogrammering 3 år vid Campus Gräsvik, Blekinge Tekniska Högskola. Utöver skolan så spelar jag datorspel eller åker gokart.
 
 </div>
-
-<style>
-    .byline {
-        padding: 15px;
-        border: 1px solid black;
-        width: 500px;
-        height: 80px;
-        margin: auto;
-        background-color: #f9f7f7;
-    }
-    .byline img {
-        float: left;
-        margin-right: 20px;
-        height: 80px;
-    }
-</style>

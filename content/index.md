@@ -23,24 +23,3 @@ Intresset för programmering blev stort i grundskolan efter att jag fått progra
     Johan Lundqvist studerar webbprogrammering 3 år vid Campus Gräsvik, Blekinge Tekniska Högskola. Utöver skolan så spelar jag datorspel eller åker gokart.
 
 </div>
-
-<style>
-    .byline {
-        padding: 15px;
-        border: 1px solid black;
-        width: 500px;
-        height: 80px;
-        margin: auto;
-        background-color: #f9f7f7;
-    }
-    .byline img {
-        float: left;
-        margin-right: 20px;
-        height: 80px;
-    }
-    .me {
-        width: 40%;
-        float: right;
-        margin: 10px;
-    }
-</style>
