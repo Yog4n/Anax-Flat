@@ -27,10 +27,15 @@ return [
                 "title" => t("Om")
             ],
 
-            "test" => [
-                "text" => t("Test"),
-                "url" => $this->di->get("url")->create("test"),
-                "title" => t("Test")
+            "grid" => [
+                "text" => t("Grid"),
+                "url" => $this->di->get("url")->create("grid"),
+                "title" => t("Grid")
+            ],
+            "typo" => [
+                "text" => t("Typo"),
+                "url" => $this->di->get("url")->create("typography"),
+                "title" => t("Typo")
             ],
         ],
     ],
@@ -60,6 +65,17 @@ return [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
+            ],
+
+            "grid" => [
+                "text" => t("Grid"),
+                "url" => $this->di->get("url")->create("grid"),
+                "title" => t("Grid")
+            ],
+            "typo" => [
+                "text" => t("Typo"),
+                "url" => $this->di->get("url")->create("typography"),
+                "title" => t("Typo")
             ],
         ],
     ],
